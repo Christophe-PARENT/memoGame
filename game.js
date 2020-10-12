@@ -50,7 +50,7 @@ const stockingImages = [
   "images/8.jpg",
   "images/9.jpg",
   "images/10.jpg",
-
+  "images/11.jpg",
 ];
 
 let nbPairs = 0;
@@ -67,7 +67,7 @@ switch (difficultyLevel) {
     nbPairs = 5;
     break;
   case 'hard':
-    nbPairs = 10;
+    nbPairs = 8;
     break;
   default:
     console.log(`Error retrieving the level difficulty`);
