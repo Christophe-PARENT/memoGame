@@ -47,7 +47,7 @@ body {
   justify-content: flex-start;
   align-items: center;
 
-  background-color: rgb(255, 231, 220);
+  background-color: rgb(255, 204, 181);
   width: 50%;
   min-width: 300px;
   max-width: 630px;
@@ -91,7 +91,7 @@ body {
 }
 
 .score-wrapper:nth-of-type(2n) {
-  background-color: rgba(255, 155, 109, 0.6);
+  background-color:rgba(238, 120, 66, 0.822);
   color: var(--text-color-header);s
 }
 
